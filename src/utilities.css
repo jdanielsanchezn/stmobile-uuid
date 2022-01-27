@@ -1,0 +1,47 @@
+.flex {
+  display: flex;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.align-self-end {
+  align-self: flex-end;
+}
+
+.padding-small {
+  padding: 0.5rem;
+}
+
+.padding-medium {
+  padding: 1rem;
+}
+
+.padding-large {
+  padding: 2rem;
+}
+
+.margin-small {
+  margin: 0.5rem;
+}
+
+.margin-medium {
+  margin: 1rem;
+}
+
+.margin-large {
+  margin: 2rem;
+}
+
+.margin-xlarge {
+  margin: 4rem;
+}
+
+.white {
+  color: white;
+}
